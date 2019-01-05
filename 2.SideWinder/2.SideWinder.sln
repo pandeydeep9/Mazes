@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SideWinder", "2.SideWinder.csproj", "{F43B10E9-7761-8336-4264-67D08DE9F5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.SideWinder.Editor", "2.SideWinder.Editor.csproj", "{1F401F30-3B47-33A0-321A-646D05161F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43B10E9-7761-8336-4264-67D08DE9F5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43B10E9-7761-8336-4264-67D08DE9F5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43B10E9-7761-8336-4264-67D08DE9F5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43B10E9-7761-8336-4264-67D08DE9F5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F401F30-3B47-33A0-321A-646D05161F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F401F30-3B47-33A0-321A-646D05161F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F401F30-3B47-33A0-321A-646D05161F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F401F30-3B47-33A0-321A-646D05161F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveMasking", "RecursiveMasking.csproj", "{E3BE890E-C522-227A-904E-095BC47AB987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveMasking.Editor", "RecursiveMasking.Editor.csproj", "{07FF5F5A-7D6B-829F-2966-215960654D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3BE890E-C522-227A-904E-095BC47AB987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BE890E-C522-227A-904E-095BC47AB987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BE890E-C522-227A-904E-095BC47AB987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BE890E-C522-227A-904E-095BC47AB987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FF5F5A-7D6B-829F-2966-215960654D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FF5F5A-7D6B-829F-2966-215960654D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FF5F5A-7D6B-829F-2966-215960654D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FF5F5A-7D6B-829F-2966-215960654D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
